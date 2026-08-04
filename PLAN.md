@@ -377,7 +377,7 @@ Raising `--light-strength` above 0 removes luminance before quantization and ten
 
 ---
 
-## Future Extensions
+## Future Extensions 
 
 Not required for v1:
 
